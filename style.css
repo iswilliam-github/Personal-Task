@@ -1,0 +1,135 @@
+
+
+.manrope {
+  font-family: "Manrope", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 27.32px;
+  text-align: left;
+  
+}
+.bg-lemon{
+    background-color: rgb(111,194,71);
+    color: white;
+    width: 278px;
+height: 75px;
+padding: 24px 40px 24px 40px;
+border-radius: 16px;
+border: 1px rgb(111,194,71) solid ;
+font-size: 20px;
+font-weight: 700;
+line-height: 27.32px;
+text-align: left;
+
+
+
+}
+.aktive{
+    color: #065666 ;
+}
+.dworld{
+font-family: "Manrope", sans-serif;
+font-size: 64px;
+font-weight: 800;
+line-height: 87.42px;
+text-align: center;
+
+}
+
+.text2{
+font-family: "Manrope", sans-serif;
+font-size: 24px;
+font-weight: 500;
+line-height: 43.2px;
+text-align: center;
+
+}
+
+.SignupLogin{
+    background: rgb(255,255,255);
+    width: 278px;
+height: 75px;
+padding: 24px 40px 24px 40px;
+gap: 16px;
+border-radius: 16px;
+border: 1px rgb(111,194,71) solid ;
+opacity: 0px;
+
+
+}
+
+.trusted{
+font-family: "Manrope", sans-serif;
+font-size: 32px;
+font-weight: 800;
+line-height: 43.71px;
+text-align: center;
+color:  #373737;
+
+
+}
+
+.trustedsubtext{
+    font-family: "Manrope", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    text-align: center;
+    color:  #373737;
+    
+}
+
+.yvalutico{
+font-family: "Manrope", sans-serif;
+font-size: 40px;
+font-weight: 800;
+line-height: 54.64px;
+text-align: center;
+color: #FFFFFF;
+padding: 2rem;
+
+}
+
+.yvaluticosubtext{
+font-family: "Manrope", sans-serif;
+font-size: 20px;
+font-weight: 500;
+line-height: 30px;
+text-align: center;
+color: #D7D7D7;
+
+}
+.secureList{
+font-family: "Manrope", sans-serif;
+font-size: 24px;
+font-weight: 800;
+line-height: 32.78px;
+text-align: left;
+color: #FFFFFF;
+
+
+}
+
+.secureDetails{
+font-family: "Manrope", sans-serif;
+font-size: 20px;
+font-weight: 500;
+line-height: 30px;
+text-align: left;
+color: #D7D7D7;
+
+}
+
+
+
+/* @media screen and Min-Width(467px) {
+    .dworld {
+font-family: "Manrope", sans-serif;
+font-size: 32px;
+font-weight: 800;
+line-height: 48px;
+text-align: center;
+
+         }
+    
+} */
